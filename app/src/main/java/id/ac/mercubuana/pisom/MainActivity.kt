@@ -1,4 +1,3 @@
-usanytatra
 package id.ac.mercubuana.pisom
 
 import androidx.appcompat.app.AppCompatActivity
